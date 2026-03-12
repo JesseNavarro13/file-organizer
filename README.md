@@ -9,8 +9,8 @@ A simple python automation script that organizes files into folders based on fil
 - Supports images, documents, videos, audios, and archives
 
 ## Tools Used
-Python\\
-OS Module\\
+Python\
+OS Module\
 File System Operations
 
 ## Author
